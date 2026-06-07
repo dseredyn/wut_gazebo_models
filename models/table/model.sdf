@@ -30,7 +30,7 @@
           <diffuse>1.0 1.0 1.0</diffuse>
           <pbr>
             <metal>
-              <albedo_map>model://table/table_Diffuse.jpg</albedo_map>
+              <albedo_map>model://table/table_diffuse.jpg</albedo_map>
             </metal>
           </pbr>
         </material>
